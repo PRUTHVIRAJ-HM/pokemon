@@ -1,0 +1,24 @@
+Add Dependencies 
+Open pubspec.yaml and add the following dependencies: 
+ 
+yaml 
+Copy code 
+dependencies: 
+  flutter: 
+    sdk: flutter 
+  http: ^1.2.0 
+ 
+ 
+Get an OpenWeatherMap API Key 
+Go to https://openweathermap.org 
+ 
+Sign up and create an API key 
+
+
+pgm11
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.66.0
+
+
